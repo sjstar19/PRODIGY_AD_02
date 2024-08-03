@@ -19,7 +19,9 @@ This Todo List app was built as a learning exercise, referencing CodeSoft’s Gi
 * Views, XML
 
 # Screenshots:
-![Todo App Screenshot](https://github.com/shoaibkhanae/CODSOFT-TodoListApp/assets/147998474/be8ff689-6d94-4977-9cad-871be39703c1)
+![Todo App Screenshot https://github.com/sjstar19/PRODIGY_AD_02/blob/master/Screenshot%202024-08-03%20123334.png
+
+https://github.com/sjstar19/PRODIGY_AD_02/blob/master/Screenshot%202024-08-03%20123353.png
 
 
 
