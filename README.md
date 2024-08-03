@@ -1,5 +1,5 @@
 # Todo
-It is a Todo App, i used Room, Coroutines, MVVM Architecuture, Material 3, live data and navigation components.
+This Todo List app was built as a learning exercise, referencing CodeSoft’s GitHub repository. It utilizes the following technologies:
 
 # Features:
 * Create Tasks
